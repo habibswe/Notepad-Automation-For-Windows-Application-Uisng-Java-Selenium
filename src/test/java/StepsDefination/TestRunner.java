@@ -9,6 +9,8 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",
         glue = "Notepad",
         plugin = {"pretty"}
+
+        // tags = "@TC,      
 )
 
 public class TestRunner {

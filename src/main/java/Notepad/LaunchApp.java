@@ -23,5 +23,16 @@ public class LaunchApp {
             driver.quit();
 
         }
+
+    public void launch() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'launch'");
+    }
+
+    public void quit() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'quit'");
+    }
+
     }
 
